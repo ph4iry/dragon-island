@@ -1,36 +1,38 @@
-# React + TypeScript + Vite + Tailwind
+# dragon island
 
-This template provides a minimal setup to get React working in Vite, TypeScript, and Tailwind.
+a 3d site visualizing boston latin academy admissions data.
 
-## Getting Started 🚀
+## about the project
 
-1. Clone the repo.
-2. Install dependencies: `pnpm install`
-3. Start the dev server: `pnpm dev`
+dragon island was built to analyze trends in boston latin academy's college admissions using data that is semi-publicly available (though scattered across the internet). as a student, i wanted to see how my own class compared to previous years and provide a resource for others to explore their potential college paths. by visualizing this information, students can get a clearer picture of where they stand in relation to their dream schools and make informed decisions about their applications. the 3d aspect was also added to (1) help me practice 3d projects in react three fiber and (2) make it more visually appealing as well!
 
-### Or
+## why it matters
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmoinulmoin%2Fvite-react-tailwind-starter)
+college admissions can feel like navigating a maze of uncertainty, especially when students lack access to historical data on acceptances. dragon island aggregates and presents this information in an engaging way, helping students:
+- identify trends in admissions over time
+- gauge their standing based on past accepted students
+- make strategic choices when applying to schools
 
-## Expanding the ESLint configuration
+i hope this project serves as a useful tool for students looking for transparency in the admissions process, and with future updates will allow students to make their own informed decisions long after i graduate
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## limitations
 
-- Configure the top-level `parserOptions` property like this:
+notably, ivy league and other top-20 institutions are not included in this visualization. their admission statistics (beyond general scattergrams) were disabled, presumably to prevent animosity and competition among students. while this means some highly selective schools are missing, the available data still provides valuable insights into the overall admissions trends at BLA.
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+## tech stack
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+- **react & typescript** – core framework for building the site
+- **react three fiber** – rendering 3d visualizations
+- **spline** – creating and integrating 3d assets
 
-## License 📄
+## usage
 
-[MIT License](https://github.com/moinulmoin/vite-react-tailwind-starter/blob/master/LICENSE)
+visit the site, explore the data, and gain insights into bla's admissions trends. if you find it useful or have suggestions for improvement, feel free to contribute or reach out!
+
+## contributing
+
+this project is open-source and welcomes contributions. if you have ideas for improving the visualization or expanding the dataset, feel free to open an issue or submit a pull request.
+
+---
+
+built with curiosity and a love for data visualization. 🚀
