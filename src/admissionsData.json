@@ -1,0 +1,205 @@
+[
+  {
+    "name": "Boston College",
+    "acceptedStudents": 7,
+    "appliedStudents": 59,
+    "localAcceptanceRate": 11,
+    "nationalAcceptanceRate": 15
+  },
+  {
+    "name": "Tufts University",
+    "acceptedStudents": 7,
+    "appliedStudents": 47,
+    "localAcceptanceRate": 14,
+    "nationalAcceptanceRate": 9
+  },
+  {
+    "name": "Boston University",
+    "acceptedStudents": 29,
+    "appliedStudents": 112,
+    "localAcceptanceRate": 25,
+    "nationalAcceptanceRate": 11
+  },
+  {
+    "name": "Worcester Polytechnic Institute",
+    "acceptedStudents": 8,
+    "appliedStudents": 30,
+    "localAcceptanceRate": 26,
+    "nationalAcceptanceRate": 60
+  },
+  {
+    "name": "Providence College",
+    "acceptedStudents": 8,
+    "appliedStudents": 25,
+    "localAcceptanceRate": 32,
+    "nationalAcceptanceRate": 48
+  },
+  {
+    "name": "Brandeis University",
+    "acceptedStudents": 7,
+    "appliedStudents": 20,
+    "localAcceptanceRate": 35,
+    "nationalAcceptanceRate": 31
+  },
+  {
+    "name": "University of Massachusetts Amherst",
+    "acceptedStudents": 65,
+    "appliedStudents": 153,
+    "localAcceptanceRate": 42,
+    "nationalAcceptanceRate": 58
+  },
+  {
+    "name": "Northeastern University",
+    "acceptedStudents": 57,
+    "appliedStudents": 132,
+    "localAcceptanceRate": 43,
+    "nationalAcceptanceRate": 5
+  },
+  {
+    "name": "Syracuse University",
+    "acceptedStudents": 10,
+    "appliedStudents": 20,
+    "localAcceptanceRate": 50,
+    "nationalAcceptanceRate": 49
+  },
+  {
+    "name": "Clark University",
+    "acceptedStudents": 12,
+    "appliedStudents": 23,
+    "localAcceptanceRate": 52,
+    "nationalAcceptanceRate": 42
+  },
+  {
+    "name": "University of Rhode Island",
+    "acceptedStudents": 12,
+    "appliedStudents": 22,
+    "localAcceptanceRate": 54,
+    "nationalAcceptanceRate": 69
+  },
+  {
+    "name": "University of Connecticut",
+    "acceptedStudents": 27,
+    "appliedStudents": 40,
+    "localAcceptanceRate": 67,
+    "nationalAcceptanceRate": 48
+  },
+  {
+    "name": "Bentley University",
+    "acceptedStudents": 23,
+    "appliedStudents": 34,
+    "localAcceptanceRate": 67,
+    "nationalAcceptanceRate": 43
+  },
+  {
+    "name": "Emmanuel College",
+    "acceptedStudents": 36,
+    "appliedStudents": 52,
+    "localAcceptanceRate": 69,
+    "nationalAcceptanceRate": 77
+  },
+  {
+    "name": "University of New Hampshire",
+    "acceptedStudents": 24,
+    "appliedStudents": 48,
+    "localAcceptanceRate": 50,
+    "nationalAcceptanceRate": 76
+  },
+  {
+    "name": "University of Massachusetts Lowell",
+    "acceptedStudents": 99,
+    "appliedStudents": 130,
+    "localAcceptanceRate": 76,
+    "nationalAcceptanceRate": 71
+  },
+  {
+    "name": "Suffolk University",
+    "acceptedStudents": 57,
+    "appliedStudents": 74,
+    "localAcceptanceRate": 77,
+    "nationalAcceptanceRate": 78
+  },
+  {
+    "name": "Simmons University",
+    "acceptedStudents": 26,
+    "appliedStudents": 33,
+    "localAcceptanceRate": 78,
+    "nationalAcceptanceRate": 69
+  },
+  {
+    "name": "Framingham State University",
+    "acceptedStudents": 32,
+    "appliedStudents": 40,
+    "localAcceptanceRate": 80,
+    "nationalAcceptanceRate": 82
+  },
+  {
+    "name": "Pennsylvania State University",
+    "acceptedStudents": 14,
+    "appliedStudents": 17,
+    "localAcceptanceRate": 82,
+    "nationalAcceptanceRate": 56
+  },
+  {
+    "name": "University of Massachusetts Boston",
+    "acceptedStudents": 142,
+    "appliedStudents": 171,
+    "localAcceptanceRate": 83,
+    "nationalAcceptanceRate": 77
+  },
+  {
+    "name": "University of Massachusetts Dartmouth",
+    "acceptedStudents": 59,
+    "appliedStudents": 70,
+    "localAcceptanceRate": 84,
+    "nationalAcceptanceRate": 77
+  },
+  {
+    "name": "Wentworth Institute of Technology",
+    "acceptedStudents": 44,
+    "appliedStudents": 51,
+    "localAcceptanceRate": 86,
+    "nationalAcceptanceRate": 85
+  },
+  {
+    "name": "Salem State University",
+    "acceptedStudents": 46,
+    "appliedStudents": 53,
+    "localAcceptanceRate": 86,
+    "nationalAcceptanceRate": 66
+  },
+  {
+    "name": "Bridgewater State University",
+    "acceptedStudents": 54,
+    "appliedStudents": 62,
+    "localAcceptanceRate": 87,
+    "nationalAcceptanceRate": 90
+  },
+  {
+    "name": "Curry College",
+    "acceptedStudents": 43,
+    "appliedStudents": 46,
+    "localAcceptanceRate": 93,
+    "nationalAcceptanceRate": 78
+  },
+  {
+    "name": "Massachusetts College of Pharmacy and Health Sciences",
+    "acceptedStudents": 29,
+    "appliedStudents": 31,
+    "localAcceptanceRate": 93,
+    "nationalAcceptanceRate": 93
+  },
+  {
+    "name": "Lesley University",
+    "acceptedStudents": 18,
+    "appliedStudents": 19,
+    "localAcceptanceRate": 94,
+    "nationalAcceptanceRate": 75
+  },
+  {
+    "name": "Fitchburg State University",
+    "acceptedStudents": 17,
+    "appliedStudents": 22,
+    "localAcceptanceRate": 77,
+    "nationalAcceptanceRate": 77
+  }
+]
